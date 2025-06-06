@@ -1,0 +1,12 @@
+{
+  "name": "websocks-integration-tests",
+  "version": "1.0.0",
+  "description": "Integration tests for websocks library",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "ws": "^8.14.0"
+  },
+  "devDependencies": {}
+}
